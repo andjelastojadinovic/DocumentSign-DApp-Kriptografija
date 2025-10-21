@@ -1,4 +1,4 @@
-# 🪙 DocumentSign DApp — Blockchain Digital Signature System
+# DocumentSign DApp — Blockchain Digital Signature System
 
 This project implements a **Decentralized Application (DApp)** for digitally signing and verifying electronic documents using **Ethereum blockchain** and **cryptographic mechanisms** (SHA-256, ECDSA).  
 The system ensures document authenticity and integrity by recording document hashes and digital signatures on the blockchain.
